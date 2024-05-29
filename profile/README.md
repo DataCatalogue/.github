@@ -19,9 +19,9 @@ Our corpus consists in a sample of the sales catalogs from the **collections of 
 
 
 ### 📝 Bibliography
-* Scheithauer, H., Bénière, S., Moreux, J.-P., & Romary, L. (2023, November 29). _DataCatalogue : rétro-structuration automatique des catalogues de vente_. Webinaire Culture Inria. [https://hal.science/hal-04360229](https://hal.science/hal-04360229). 
-* Clérice, T., Janès, J., Scheithauer, H., Bénière, S., Romary, L., & Sagot, B. (2024, August 6-9). _Layout Analysis Dataset with SegmOnto_. DH 2024 - Annual Conference of the Alliance of Digital Humanities Organizations, Washington, D.C., United States. [https://inria.hal.science/hal-04513725](https://inria.hal.science/hal-04513725). 
-* Scheithauer, H., Bénière, S., & Romary, L. (2024, August 6-9). _Automatic retro-structuration of auction sales catalogs layout and content_. DH 2024 - Annual Conference of the Alliance of Digital Humanities Organizations, Washington, D.C., United States. [https://hal.science/hal-04547239](https://hal.science/hal-04547239). 
+* Hugo Scheithauer, Sarah Bénière, Jean-Philippe Moreux, & Laurent Romary. (2023, November 29). _DataCatalogue : rétro-structuration automatique des catalogues de vente_. Webinaire Culture Inria. [https://hal.science/hal-04360229](https://hal.science/hal-04360229). 
+* Thibault Clérice, Juliette Janès., Hugo Scheithauer, Sarah Bénière, Laurent Romary, & Benoît Sagot. (2024, August 6-9). _Layout Analysis Dataset with SegmOnto_. DH 2024 - Annual Conference of the Alliance of Digital Humanities Organizations, Washington, D.C., United States. [https://inria.hal.science/hal-04513725](https://inria.hal.science/hal-04513725). 
+* Hugo Scheithauer, Sarah Bénière, & Laurent Romary. (2024, August 6-9). _Automatic Retro-Structuration of Auction Sales Catalogs layout and Content_. DH 2024 - Annual Conference of the Alliance of Digital Humanities Organizations, Washington, D.C., United States. [https://hal.science/hal-04547239](https://hal.science/hal-04547239). 
 
 
 ### 🖌️ Credits
